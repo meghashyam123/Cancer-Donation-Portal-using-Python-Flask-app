@@ -47,32 +47,18 @@ Flask App for Cancer Donation Portal using basic Python, SQLite3, HTML, CSS and 
 
 ## Installation
 <ol>
-  <li>Download and Install <b>Python 3.7</b></li>
+  <li>Download and Install <b>Python 3.9</b></li>
 <li>Go to command prompt or anaconda prompt. Change to directory of this repo and type <b>pip install -r requirements.txt</b></li>
 <li>Run the <b>app.py</b> file</li>
 <li>Open your web browser and check if you got the website running on your localhost (http://127.0.0.1:5000/)</li>
 </ol>
 
 ## Authors
-### Kaushik Jadhav
+### Meghashyam Parab
 <ul>
-<li>Github: https://github.com/kaushikjadhav01</li>
-<li>Medium: https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn: https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio: http://kajadhav.me/</li>
-<li>Linked In: https://www.linkedin.com/in/kajadhav/
-<li>Dev.to: https://dev.to/kaushikjadhav01
-<li>Codesignal: https://app.codesignal.com/profile/kaushik_j_vtc
-<li>Google Scholar: https://scholar.google.com/citations?user=iRYcFi0AAAAJ
-<li>Daily.dev: https://app.daily.dev/kaushikjadhav01
-<li>Google devs: https://developers.google.com/profile/u/kaushikjadhav01
-<li>Stack Overflow: https://stackoverflow.com/users/21890981/kaushik-jadhav
-</ul>
+<li>Github: https://github.com/meghashyam123</li>
+<li>LinkedIn:https://www.linkedin.com/in/meghashyam-parab-6898011a4/</li>
 
-## Links
-* [Web site](http://3.23.155.244:8000/)
-* [Issue tracker](https://github.com/kaushikjadhav01/Cancer-Donation-Portal-Python-Flask-App/issues)
-* [Source code](https://github.com/kaushikjadhav01/Cancer-Donation-Portal-Python-Flask-App)
 
 
 
