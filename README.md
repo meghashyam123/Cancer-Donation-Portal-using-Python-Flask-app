@@ -33,8 +33,8 @@ Flask App for Cancer Donation Portal using basic Python, SQLite3, HTML, CSS and 
 **Live Demo:** http://3.23.155.244:8000/<br/>
 
 ### Screenshots
-<img src = "https://github.com/kaushikjadhav01/Cancer-Donation-Portal-Python-Flask-App/blob/master/screenshots/ss-banner.png" />
-<br>Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Cancer-Donation-Portal-Python-Flask-App/blob/master/screenshots">click here</a>
+<img src = "https://github.com/meghashyam123/Cancer-Donation-Portal-using-Python-Flask-app/blob/master/screenshots/ss-banner.png" />
+<br>Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/meghashyam123/Cancer-Donation-Portal-using-Python-Flask-app/blob/master/screenshots">click here</a>
 
 ## Built With
 ![Flask](https://img.shields.io/badge/Flask-4EA94B?style=for-the-badge&amp;logo=flask&amp;logoColor=white)
